@@ -1,7 +1,7 @@
 import requests
 import openai
 import time
-impotlrt telegram
+import telegram
 
 def generate_fact():
     openai.api_key = "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"
